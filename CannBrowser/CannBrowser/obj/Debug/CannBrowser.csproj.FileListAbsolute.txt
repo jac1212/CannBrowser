@@ -1,0 +1,9 @@
+E:\workspace_C#\CannBrowser\CannBrowser\bin\Debug\CannBrowser.exe.config
+E:\workspace_C#\CannBrowser\CannBrowser\bin\Debug\CannBrowser.exe
+E:\workspace_C#\CannBrowser\CannBrowser\bin\Debug\CannBrowser.pdb
+E:\workspace_C#\CannBrowser\CannBrowser\obj\Debug\CannBrowser.Form1.resources
+E:\workspace_C#\CannBrowser\CannBrowser\obj\Debug\CannBrowser.Properties.Resources.resources
+E:\workspace_C#\CannBrowser\CannBrowser\obj\Debug\CannBrowser.csproj.GenerateResource.Cache
+E:\workspace_C#\CannBrowser\CannBrowser\obj\Debug\CannBrowser.exe
+E:\workspace_C#\CannBrowser\CannBrowser\obj\Debug\CannBrowser.pdb
+E:\workspace_C#\CannBrowser\CannBrowser\obj\Debug\CannBrowser.csprojResolveAssemblyReference.cache
